@@ -10,6 +10,7 @@ public class MyMathTest {
     public void testSomeMethod() {
         assertEquals(MyMath.doubleMe(1), 2);
         assertEquals(MyMath.doubleMe(10), 20);
+        assertEquals(MyMath.doubleMe(2), 4);
     }
 
 }
